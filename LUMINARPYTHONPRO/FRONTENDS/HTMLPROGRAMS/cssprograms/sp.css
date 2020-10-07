@@ -1,0 +1,32 @@
+h1{
+  font-family: 'Francois One', sans-serif;
+  text-align:center;
+}
+.tble{
+ margin:auto;
+}
+td{
+ height:400px;
+ padding:100px;
+ border:6px solid white;
+}
+#one{
+ background-color:blueviolet;
+
+}
+#two{
+ background-color:black;
+
+}
+#three{
+ background-color:violet;
+
+}
+#four{
+ background-color:blue;
+
+}
+#five{
+ background-color:yellow;
+
+}

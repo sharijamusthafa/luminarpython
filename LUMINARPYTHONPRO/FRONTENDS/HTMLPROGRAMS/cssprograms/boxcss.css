@@ -1,0 +1,15 @@
+#top{
+width:40%;
+border-style:dotted;
+border-color:red;
+margin-left:10%
+padding-left:10%
+}
+#bottom{
+width:40%;
+border-style:solid;
+border-color:red;
+margin-top:30%;
+margin-left:10%;
+
+}

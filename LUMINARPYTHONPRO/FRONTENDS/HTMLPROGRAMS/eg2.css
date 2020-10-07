@@ -1,0 +1,36 @@
+
+#clr{
+ background-color:cyan;
+width:10%;
+float:left;
+margin-left:1%;
+ height:300px;
+}
+#clr1{
+ background-color:rgb(135, 50, 168);
+width:10%;
+float:left;
+margin-left:1%;
+ height:300px;
+}
+#clr2{
+ background-color:green;
+width:10%;
+ float:left;
+ margin-left:1%;
+ height:300px;
+}
+#clr3{
+ background-color:red;
+width:10%;
+float:left;
+margin-left:1%;
+ height:300px;
+}
+#clr4{
+ background-color:blue;
+width:10%;
+float:left;
+margin-left:1%;
+ height:300px;
+}
